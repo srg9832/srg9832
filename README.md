@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @srg9832
+- 👀 I’m interested in programming in Python for Geographic Information Systems (GIS) in electric and gas utilities.
+- 🌱 I’m currently learning python to design applications that modify databases, and can conduct GIS tasks at the lowest cost possible for the utility company.
+- 💞️ I’m looking to collaborate on anything and everything.
+- 📫 How to reach me by messaging me here.
